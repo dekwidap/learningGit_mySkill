@@ -1,0 +1,2 @@
+file baru lagi tambahan dari new branch
+saya coba menambahkan kalimat baru di line 2 biar conflict
